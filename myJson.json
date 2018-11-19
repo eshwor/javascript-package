@@ -1,26 +1,33 @@
+
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
+    "name" : "Josh"
   },
   {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
+    "name" : "Jocker"
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
-  }
+    "name" : "Jivan"
+  },
+  {
+    "name" : "Jem"
+  },
+  {
+    "name" : "Raskal"
+  },
+  {
+    "name" : "Varkar"
+  },
+  {
+    "name" : "Yomo"
+  },
+  {
+    "name" : "Achal"
+  },
+  {
+    "name" : "Pal"
+  },
+  {
+    "name" : "Rajesh"
+  },
 ]
